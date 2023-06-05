@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>BDx Home Test</title>
-        <item>
+        <item> 
             <title>Version 1.0.3</title>
             <description>Minor updates and improvements..</description>
             <pubDate>Fri, 02 Jun 2023 08:00:00 +0000</pubDate>
