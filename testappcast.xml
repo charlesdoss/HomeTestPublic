@@ -3,11 +3,11 @@
     <channel>
         <title>BDx Home Test</title>
         <item> 
-            <title>Version 1.0.0.5</title>
+            <title>Version 1.0.0.1</title>
             <description>Minor updates and improvements..</description>
             <pubDate>Sun, 04 Jun 2023 08:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.basisdx.htapp" sparkle:version="1.0.0.5" sparkle:os="android" />
-            <sparkle:minimumSystemVersion>1.0.0.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.basisdx.htapp" sparkle:version="1.0.0.1" sparkle:os="android" />
+            <sparkle:minimumSystemVersion>1.0.0.1</sparkle:minimumSystemVersion>
         </item>
     </channel>
 </rss>
